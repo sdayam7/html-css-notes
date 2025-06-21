@@ -74,10 +74,12 @@ Temporarily hide parts of code from the browser
 
 <!-- This is a comment and will not appear in the browser -->
 
-⚠️ Best Practices to Remember
-Concept Do Don't
-Headings Only 1 <h1> per page Don’t skip heading levels
-Paragraphs Use <p> for readable text Don’t stack raw text without tags
-Bold text Use <strong> Avoid <b>
-Italic text Use <em> Avoid <i>
-Commenting Use <!-- comment --> Don’t leave unused code active
+## ⚠️ Best Practices to Remember
+
+| Concept     | ✅ Do                        | ❌ Don’t                          |
+| ----------- | ---------------------------- | --------------------------------- |
+| Headings    | Use only one `<h1>` per page | Don’t skip heading levels         |
+| Paragraphs  | Use `<p>` for readable text  | Don’t stack raw text without tags |
+| Bold text   | Use `<strong>`               | Avoid using `<b>`                 |
+| Italic text | Use `<em>`                   | Avoid using `<i>`                 |
+| Commenting  | Use `<!-- comment -->`       | Don’t leave unused code active    |
