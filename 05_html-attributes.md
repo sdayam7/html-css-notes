@@ -82,28 +82,3 @@ Prevents weird character display (like � or Ã©)
 <head>
   <meta charset="UTF-8">
 </head>
-
-✨ Real-World Examples of 14 Key Attributes
-html
-Copy code
-
-<!-- Image with attributes -->
-<img src="author.jpg" alt="Headshot of Laura Jones" width="50" height="50">
-
-<!-- Anchor link with attributes -->
-
-<a href="https://example.com" target="_blank" title="Visit Example">Click here</a>
-
-<!-- Input form -->
-<input type="text" name="username" value="shruti123">
-
-<!-- Meta data in head -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<!-- Button -->
-
-<button class="btn" id="submitBtn">Submit</button>
-
-<!-- Paragraph with title -->
-<p title="This is tooltip text">Hover over me</p>
